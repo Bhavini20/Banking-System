@@ -25,7 +25,7 @@ if (isset($_POST['submit'])) {
 
 
 
-    // constraint to check insufficient balance.
+    // constraint to check if the balance is insufficient.
     else if ($amount > $sql1['balance']) {
 
         echo '<script type="text/javascript">';
