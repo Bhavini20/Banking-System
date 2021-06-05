@@ -1,6 +1,6 @@
 # Banking-System
 
- A simple dynamic website which has the following specs.
+ A simple dynamic website which has the following features:
 
 Customers table has basic fields such as name, email,
 current balance etc. Transfers table is the table that records all transfers
